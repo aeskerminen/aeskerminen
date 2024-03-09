@@ -1,3 +1,3 @@
 ### Welcome, traveller 👋
 
-![tryhackme stats](https://raw.githubusercontent.com/aeskerminen/aeskerminen/master/assets/thm_propic.png)
+![tryhackme stats]("https://tryhackme.com/badge/2251568")
